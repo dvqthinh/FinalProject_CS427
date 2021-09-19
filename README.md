@@ -32,16 +32,6 @@ Arena Game was a project designed to show off how certain things are done in For
 It's created by me, NF Mynster, come for a chat on the Forge Discord server [here](https://discord.gg/yzZwEYm) if you are interested in Forge or want to have a general chat with some nice people!
 
 
-# Documentation & support!
-> but why did you do this like that and that like this 
-
-I'm still unsure whether or not I will be supporting this for eventual bugs, as it's more meant as a showcase product than a actual commercial/real title. \
-That's also a reason why some of the systems are made the way they are, as they serve a better purpose of exampling stuff rather than being super optimal or ideal (such as cheatproofing) 
-___
-Also, it should be noted that Forge doesn't have a uniform way of doings thing (*does programming really?*) so this is my network design and my way of doing things, and there certainly are things that get be improved. 
-And because of that, I wrote a few articles in the Github Wiki for this project, explaning my main structure and why/how I did what I did. \
-[Find them here!](https://github.com/NFMynster/ArenaGame/wiki)
-
 #### Bugs
 There are few minor bugs in the project, if you find some crucial ones, [report them here](https://github.com/NFMynster/ArenaGame/issues)
 
