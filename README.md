@@ -36,10 +36,6 @@ Arena Game was a project designed to show off how certain things are done in For
 It's created by me, NF Mynster, come for a chat on the Forge Discord server [here](https://discord.gg/yzZwEYm) if you are interested in Forge or want to have a general chat with some nice people!
 
 
-#### Bugs
-There are few minor bugs in the project, if you find some crucial ones, [report them here](https://github.com/NFMynster/ArenaGame/issues)
-
-
 # Preferences
 
 For making this a better example, I've used a few assets
