@@ -5,7 +5,7 @@
 Arena Game is a Unity game made with Forge networking meant as an example project for Forge. \
 ***Please notice that it is user made and the developers of Forge Networking Remastered have not created this neither offers support for it.***
 
-#### See a video of it in action [here!](https://youtu.be/BF15LJP7clc)
+
 
 # Features!
 
@@ -63,7 +63,7 @@ For making this a better example, I've used a few assets, as I'm no artist mysel
 
 # Usage
 
-ArenaGame is made with ~~Unity 2018.1.3f1~~ now updated to Unity 2018.2.3f1 using Forge 24.2.
+ArenaGame is made with  Unity 2018.2.3f1 using Forge 24.2.
 It should work on other Unity installations, try it out.
 Just open up the project in Unity, open the /Scenes/MainMenu and press play, and you are good to go.
 If you want to build it, make sure you make the main menu the first scene and the ArenaScene the second scene in the build menu. 
