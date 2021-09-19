@@ -18,9 +18,7 @@ Arena Game is a Unity game made with Forge networking meant as an example projec
   - Player health, respawn, spawnpoints
   - HUD & UI
   - Ragdolls!!
-  - A few more things
-  - MIT license! *(However, don't be afraid to credit/thank me, I would appriciate it!)*
-  - [**A few articles on the GitHub wiki**](https://github.com/NFMynster/ArenaGame/wiki)
+  - A few more things    
 ___
 The project includes some nice things, however, an example project would be too big and complex if I had to feature every thing Forge has to offer, so here is a list of things this project does **not** feature.
  - Master server registration. This is very easy to setup with Forge though.
