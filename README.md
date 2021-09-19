@@ -36,18 +36,14 @@ It's created by me, NF Mynster, come for a chat on the Forge Discord server [her
 There are few minor bugs in the project, if you find some crucial ones, [report them here](https://github.com/NFMynster/ArenaGame/issues)
 
 
-# Credit
+# Preferences
 
-For making this a better example, I've used a few assets, as I'm no artist myself!
-* My animator, Shelby! He created some nice **in engine** animations! [Check out his twitter](https://twitter.com/shelbyjuno)
-* [Kenney.nl](http://kenney.nl/) - For (almost) all 3d assets used in the game! 
-    * more specifically the [weapons pack](http://kenney.nl/assets/weapon-pack), [the nature pack](http://kenney.nl/assets/nature-pack-extended), [the castle kit](http://kenney.nl/assets/castle-kit) and of course [the characters](http://kenney.nl/assets/3d-characters).
+For making this a better example, I've used a few assets
+
 * [SimpleSky](https://www.assetstore.unity3d.com/en/#!/content/42373) - An awesome cartoony skydome!
 * [SimpleFX](https://www.assetstore.unity3d.com/en/#!/content/67834) - Some very nice cartoony particle, where I modified some of them slightly.
 * [Unity's postprocessing stack v1](https://github.com/Unity-Technologies/PostProcessing) - Unity's great post processing stack
 * TextMesh Pro - superior text in Unity
-* And of course the Forge Discord - Everything Forge related, question, answers and so on.
-* (And a google font, [Julius Sans](https://fonts.google.com/specimen/Julius+Sans+One), under [this license](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web) )
 
 # Usage
 
@@ -58,12 +54,3 @@ If you want to build it, make sure you make the main menu the first scene and th
 
 **There is also a compiled build included for Windows, if you just wanna have a quick test run**
 
-License
-----
-
-MIT - however as mentioned, feel free to credit me or contact me in some form telling me thanks or something similar! I made this hoping people would benefit from it, so to get that confirmed would warm my heart haha!
-
-
-**NF Mynster - Footstomp Studios**
-https://www.footstomp.studio/
-https://twitter.com/nfmynster
