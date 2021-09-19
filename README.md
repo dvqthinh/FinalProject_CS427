@@ -6,7 +6,7 @@
  4. [Do Vuong Quoc Thinh](https://github.com/dvqthinh25111999) &ensp; - 1751105
 
 
-Arena Game is a Unity game made with Forge networking. \
+Arena Game is a Unity game made with Forge networking. 
 
 
 
