@@ -4,10 +4,10 @@
  2. [Nguyen Minh Nhat](https://github.com/born99) &emsp;&ensp;&nbsp; - 1751090
  3. [Dang Le Tuan Anh](https://github.com/dangletuananh69) &emsp;&ensp;&ensp;&nbsp; - 1751049
  4. [Do Vuong Quoc Thinh](https://github.com/dvqthinh25111999) &ensp; - 1751105
-[![Forge networking]
 
-Arena Game is a Unity game made with Forge networking meant as an example project for Forge. \
-***Please notice that it is user made and the developers of Forge Networking Remastered have not created this neither offers support for it.***
+
+Arena Game is a Unity game made with Forge networking. \
+
 
 
 
